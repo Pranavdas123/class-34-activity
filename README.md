@@ -1,1 +1,1 @@
-# class-34-activity
+# C34_template_code
